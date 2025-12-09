@@ -1,6 +1,7 @@
-my username is pronounced as `mach-en-juht`; or just call me JT.
+display name format: last-middle-first
 
-don't even dare use my first name when calling me out, i sort of hate it
+my username is pronounced as `mach-en-juht`; or just call me JT, alternate spelling of my real first name
+
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=mchnjt&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mchnjt&theme=catppuccin_mocha&hide_border=false)<br/>
